@@ -1,0 +1,7 @@
+Rodar o comando: node ace para ter acesso a todos os comandos CLI;
+Exemplo: 
+1- startar a aplicação: node ace serve --watch;
+2- Criar o model: node ace make: model "nome do model" -m (já cria sua migration);
+3- Rodar as migrações que estão pendentes: node ace migration: run;
+
+Instalar extensão sqlviewer pra ver as tabelas e registros do banco sqlite;
